@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "YOUR KEY"
 
 
 completion = openai.ChatCompletion.create(
